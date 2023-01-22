@@ -1,0 +1,13 @@
+redis~=4.4.2
+understatapi~=0.6.1
+streamlit~=1.17.0
+pandas~=1.5.3
+scipy~=1.10.0
+requests~=2.25.1
+klib~=1.0.7
+seaborn~=0.12.2
+matplotlib~=3.6.3
+wes~=0.1.7
+numpy~=1.24.1
+bs4~=0.0.1
+beautifulsoup4~=4.11.1
